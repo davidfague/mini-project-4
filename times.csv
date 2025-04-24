@@ -1,0 +1,6 @@
+"module", "time (ms)", "n"
+"microbit", 592, 20000
+"pc_serial", 552, 10000000
+"pc_serial", 376070, 100000000
+"pc_parallel", 10136, 10000000
+"pc_parallel", 376070, 100000000
